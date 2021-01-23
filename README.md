@@ -6,7 +6,7 @@
 
 I am currently pursuing a PhD degree in computer vision & field robotics:
 
-- 🔭 I’m currently working on event-based RGB video deblur, high-resolution visual-based motion estimation, etc.
+- 🔭 I’m currently working on event-based RGB video deblur, high-resolution visual-based odometry, etc.
 - 🌱 I’m currently learning numerical analysis, deep learning with pytorch, industry-level c++, computer graphics, etc.
 - 👯 I’m looking to collaborate on deep learning-related researches.
 - 💬 Ask me about Japanese Anime.
